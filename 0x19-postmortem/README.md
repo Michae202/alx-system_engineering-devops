@@ -99,7 +99,7 @@
                                 <h4>Add URLs here:</h4>
                                 <div><br></div>
                                 <ol>
-                                    <li><a target="_blank" href="https://docs.google.com/document/d/1oOuMM83J_sZ3HuDFuGjKdxAXzxcGw7B2ZROU5CdbxB8/edit?usp=drivesdk">https://docs.google.com/document/d/1oOuMM83J_sZ3HuDFuGjKdxAXzxcGw7B2ZROU5CdbxB8/edit?usp=drivesdk</a></li>
+                                    <li><a target="_blank" href="https://docs.google.com/document/d/1o431JfU5dqcIJtBeEbreu8kG2l4rJKxGKvrzA3RSIZ4/edit?usp=sharing">https://docs.google.com/document/d/1o431JfU5dqcIJtBeEbreu8kG2l4rJKxGKvrzA3RSIZ4/edit?usp=sharing</a></li>
                                 </ol>
                             </div>
                             <div>
@@ -128,7 +128,7 @@
                                 <h4>Add URLs here:</h4>
                                 <div><br></div>
                                 <ol>
-                                    <li><a target="_blank" href="https://docs.google.com/document/d/1fOczdHaELq2CGQgQHeQ-p6HvpVByxaOiIDkZphy_k3A/edit?usp=drivesdk">https://docs.google.com/document/d/1fOczdHaELq2CGQgQHeQ-p6HvpVByxaOiIDkZphy_k3A/edit?usp=drivesdk</a></li>
+                                    <li><a target="_blank" href="https://docs.google.com/document/d/1o431JfU5dqcIJtBeEbreu8kG2l4rJKxGKvrzA3RSIZ4/edit?usp=sharing">https://docs.google.com/document/d/1o431JfU5dqcIJtBeEbreu8kG2l4rJKxGKvrzA3RSIZ4/edit?usp=sharing</a></li>
                                 </ol>
                             </div>
                             <div>
