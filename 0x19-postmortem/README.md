@@ -144,7 +144,7 @@
                     </div>
                     <div><br></div>
                 </article>
-                <div>Copyright &copy; 2023 DUKURMA, All rights reserved.</div>
+                <div>.</div>
             </main>
         </nav>
     </nav>
